@@ -3,7 +3,7 @@
 
 ![lpreview](./img/desktoppreview.jpg)
 <h6>The ultimate skin for osu! stable with better UI and sound effect.</h6>
-<img src="https://img.shields.io/badge/windows-10+-49be25?labelColor=282c34&logo=windows" alt="Windows 10" />
+<img src="https://img.shields.io/badge/Windows-7+-49be25?labelColor=282c34&logo=Windows" alt="Windows 10" />
 <a href="https://github.com/kleqing/HoyoEgokaarBar/releases/latest"><img src="https://img.shields.io/github/v/release/kleqing/Egokara?labelColor=282c34&logo=GitHub" alt="GitHub Release" /></a>
 <h6>Coming soon</h6>
 </div>
