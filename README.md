@@ -2,6 +2,7 @@
 
 ![lpreview](./img/desktoppreview.jpg)
 <h6 align="center">The ultimate skin for osu! stable with better UI and sound effect.</h6>
+<a href="https://github.com/kleqing/HoyoEgokaarBar/releases/latest"><img src="https://img.shields.io/github/v/release/kleqing/Egokara?labelColor=282c34&logo=GitHub" alt="GitHub Release" /></a>
 <h6 align="center">Coming soon</h6>
 
 ## Why is 'Egokara'?
