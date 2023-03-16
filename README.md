@@ -27,10 +27,10 @@
 
 [![GitHub Release](https://img.shields.io/github/v/release/kleqing/Egokara?labelColor=282c34&logo=GitHub&style=for-the-badge)](https://github.com/kleqing/Egokara/releases/latest)
 
-* How to install this skin?
-    1. Download the skin by click on the download button above
-    2. Press the ''osk'' file.
-    3. osu! will applied the skin automatically.
+How to install this skin?
+1. Download the skin by click on the download button above
+2. Press the ''osk'' file.
+3. osu! will applied the skin automatically.
 
 ## Support
 
