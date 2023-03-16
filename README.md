@@ -1,9 +1,11 @@
-<h1 align="center">Egokara</h1> 
+<div align="center">
+<h1>Egokara</h1> 
 
 ![lpreview](./img/desktoppreview.jpg)
-<h6 align="center">The ultimate skin for osu! stable with better UI and sound effect.</h6>
+<h6>The ultimate skin for osu! stable with better UI and sound effect.</h6>
 <a href="https://github.com/kleqing/HoyoEgokaarBar/releases/latest"><img src="https://img.shields.io/github/v/release/kleqing/Egokara?labelColor=282c34&logo=GitHub" alt="GitHub Release" /></a>
-<h6 align="center">Coming soon</h6>
+<h6>Coming soon</h6>
+</div>
 
 ## Why is 'Egokara'?
 
