@@ -3,9 +3,9 @@
 
 ![lpreview](./img/desktoppreview.jpg)
 <h6>The ultimate skin for osu! stable with better UI and sound effect.</h6>
-<img src="https://img.shields.io/github/repo-size/kleqing/Egokara-f05138?labelColor=282c34">
+<img src="https://img.shields.io/github/repo-size/kleqing/Egokara?labelColor=282c34">
 <img src="https://img.shields.io/badge/Windows-7+-49be25?labelColor=282c34&logo=Windows" alt="Windows 10" />
-<a href="https://github.com/kleqing/Egokara/releases/latest"><img src="https://img.shields.io/github/v/release/kleqing/Egokara?labelColor=282c34&logo=GitHub" alt="GitHub Release" /></a>
+<a href="https://github.com/kleqing/Egokara/releases/latest"><img src="https://img.shields.io/github/v/release/kleqing/Egokara?-f05138?labelColor=282c34&logo=GitHub" alt="GitHub Release" /></a>
 <h6>Coming soon</h6>
 </div>
 
