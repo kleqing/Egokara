@@ -3,15 +3,14 @@
 
 ![lpreview](./img/desktoppreview.jpg)
 <h6>The ultimate skin for osu! stable with better UI and sound effect.</h6>
-<img src="https://img.shields.io/github/repo-size/kleqing/Egokara?color=f05138">
 <img src="https://img.shields.io/badge/Windows-7+-49be25?labelColor=282c34&logo=Windows" alt="Windows 10" />
-<a href="https://github.com/kleqing/Egokara/releases/latest"><img src="https://img.shields.io/github/v/release/kleqing/Egokara?labelColor=282c34&logo=GitHub" alt="GitHub Release" /></a>
-<h6>Coming soon</h6>
+<a href="https://github.com/kleqing/Egokara/releases/latest"><img src="https://img.shields.io/github/v/release/kleqing/Egokara?labelColor=282c34&logo=GitHub" alt="GitHub Release"/></a>
+<img src="https://img.shields.io/github/repo-size/kleqing/Egokara?color=f05138">
 </div>
 
 ## Why is 'Egokara'?
 
-* Well, it is very hard to explain but it is a complication from the original skin named 'Sakuraya' (kara) and 'Elysia - Herrscher of Human: Ego' (Ego). (Even I don't know why I named that💦)
+* Well, it is very hard to explain but it is a combined between the original skin named 'Sakuraya' (kara) and 'Elysia - Herrscher of Human: Ego' (Ego). (Even I don't know why I named that💦)
 
 ## FAQ
 
@@ -23,3 +22,16 @@
 
 * Q: This skin is so beautiful but some time when I playing it show a character image on some modes. Can you make it hidden?
     * A: I think osu! has a option to disable it. Just go to 'Options' and type 'Combo burst' and disable it.
+
+## Download
+
+[![GitHub Release](https://img.shields.io/github/v/release/kleqing/Egokara?labelColor=282c34&logo=GitHub&style=for-the-badge)](https://github.com/kleqing/Egokara/releases/latest)
+
+* How to install this skin?
+    1. Download the skin by click on the download button above
+    2. Press the ''osk'' file.
+    3. osu! will applied the skin automatically.
+
+## Support
+
+
