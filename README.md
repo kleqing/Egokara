@@ -21,7 +21,7 @@
     * A: No, and I will not create another version for lazer since the UI of lazer was like sh1t, so I think i wouldn't create it.
 
 * Q: This skin is so beautiful but some time when I playing it show a character image on some modes. Can you make it hidden?
-    * A: I think osu! has a option to disable it. Just go to 'Options' and type 'Combo burst' and disable it.
+    * A: Osu! has already have a option to disable it. Just go to 'Options' and type 'Combo burst' and disable it.
 
 ## Download
 
