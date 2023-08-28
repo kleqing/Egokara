@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Egokara</h1> 
 
-![lpreview](./img/desktoppreview.jpg)
+![lpreview](./img/screenshot003.jpg)
 <h6>The ultimate skin for osu! stable with better UI and sound effect.</h6>
 <img src="https://img.shields.io/badge/Windows-7+-49be25?labelColor=282c34&logo=Windows" alt="Windows 10" />
 <a href="https://github.com/kleqing/Egokara/releases/latest"><img src="https://img.shields.io/github/v/release/kleqing/Egokara?labelColor=282c34&logo=GitHub" alt="GitHub Release"/></a>
@@ -22,6 +22,16 @@
 
 * Q: This skin is so beautiful but some time when I playing it show a character image on some modes. Can you make it hidden?
     * A: Osu! has already have a option to disable it. Just go to 'Options' and type 'Combo burst' and disable it.
+
+## Preview
+
+![preview](./img/screenshot001.jpg)
+
+![preview](./img/screenshot002.jpg)
+
+![preview](./img/screenshot004.jpg)
+
+![preview](./img/screenshot005.jpg)
 
 ## Download
 
